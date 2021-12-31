@@ -1,0 +1,176 @@
+.jumbotron{
+    
+    background-image: url(tbg.webp);
+    
+}
+.navbar-nav li a {
+    color:brown;
+    text-align: right;
+    font-size: large;
+}
+
+.iconmaindiv{
+    display: flex;
+    margin-left: 100px;
+    background-color: gray;
+    width: 160px;
+}
+label{
+    margin-left: 350px;
+}
+.bg{
+    height: 300px;
+    width: 100%;
+    background-image: url(kasaragod-big-1.jpg);
+    
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+  display: flex;
+}
+
+.carousel-inner .carousel-item-right.active,
+.carousel-inner .carousel-item-next {
+  transform: translateX(25%);
+}
+
+.carousel-inner .carousel-item-left.active, 
+.carousel-inner .carousel-item-prev {
+  transform: translateX(-25%);
+}
+  
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left{ 
+  transform: translateX(0);
+  
+}
+
+.bg1{
+    height: 300px;
+    width: 100%;
+    background-image: url(Kannur-Cannanore-big.jpg);
+    
+}
+.bg2{
+    height: 300px;
+    width: 100%;
+    background-image: url(kozhik.jpg);
+background-repeat: no-repeat;
+   
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.bg3{
+  height: 300px;
+  width: 100%;
+  background-image: url(kerala-gods-own-country-1-638.jpg);
+background-repeat: no-repeat;
+background-size: 100%100%;
+ 
+}
+
+.bg4{
+  height: 320px;
+  width: 100%;
+  background-image: url(mala.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+ 
+}
+.bg5{
+  height: 320px;
+  width: 100%;
+  background-image: url(maxresdefault.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+ 
+}
+.bg7{
+  height: 350px;
+  width: 100%;
+  background-image: url(pala.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+ 
+}
+.bg8{
+  height: 350px;
+  width: 100%;
+  background-image: url(thrissur.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+ 
+}
+.bg9{
+  height: 320px;
+  width: 100%;
+  background-image: url(erana.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+ 
+}
+
+.bg10{
+  height: 350px;
+  width: 100%;
+  background-image: url(idukki-big.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+ 
+}
+.bg11{
+  height: 350px;
+  width: 100%;
+  background-image: url(Pathanamthitta-big.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+ 
+}
+.bg12{
+  height: 350px;
+  width: 100%;
+  background-image: url(alapuzha.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+ 
+}
+.bg13{
+  height: 350px;
+  width: 100%;
+  background-image: url(kottayam-image.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+ 
+}
+.bg14{
+  height: 350px;
+  width: 100%;
+  background-image: url(kollam-big.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+ 
+}
+.bg15{
+  height: 350px;
+  width: 100%;
+  background-image: url(thriru.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+ 
+}
+
